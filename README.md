@@ -5,4 +5,4 @@
 - Currently grinding ML, DSA, Cloud… and occasionally my sanity<br>
 - Find more here 👉 [Portfolio Website](https://karthikeya13.vercel.app/)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthik132007&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karthik132007&layout=compact&theme=tokyonight)
