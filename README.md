@@ -7,6 +7,6 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=karthik132007&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karthik132007&layout=compact&theme=tokyonight" />
-  <img height="165" src="https://github-profile-trophy-git-main.vercel.app/?username=karthik132007&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=karthik132007&theme=tokyonight&no-frame=true&margin-w=10&bg_color=1a1b27&cache_seconds=1800" />
 
 </p>
