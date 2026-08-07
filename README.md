@@ -7,7 +7,7 @@ Editor      Neovim • PyCharm
 
 Languages   Python • Go • C • C++
 Backend     FastAPI • REST APIs
-AI/ML       ML • Agentic AI • LangChain
+AI/ML       ML • Agentic AI • RAG
 
 Data        PostgreSQL • MongoDB • Redis • ChromaDB
 DevOps      Docker • Kafka • Git • GitHub
