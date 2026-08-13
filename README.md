@@ -28,5 +28,5 @@ LinkedIn    linkedin.com/in/karthikeya2k7
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=karthik132007&size=compact&compact_count=4" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karthik132007&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/langs?username=karthik132007" alt="Top Languages" />
 </p>
