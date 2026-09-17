@@ -25,3 +25,11 @@ LinkedIn    linkedin.com/in/karthikeya2k7
   <a href="https://github.com/karthik132007">GitHub</a> •
   <a href="https://linkedin.com/in/karthikeya2k7">LinkedIn</a>
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,go,fastapi,pytorch,postgres,mongodb,redis,docker,kafka,aws,linux,git,github&perline=8" />
+</p>
+
+<p align="center">
+  <sub>LangGraph · LangChain · Vector Databases · RAG · Embeddings · Agentic AI</sub>
+</p>
