@@ -25,8 +25,3 @@ LinkedIn    linkedin.com/in/karthikeya2k7
   <a href="https://github.com/karthik132007">GitHub</a> •
   <a href="https://linkedin.com/in/karthikeya2k7">LinkedIn</a>
 </p>
-
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=karthik132007&size=compact&compact_count=4" alt="GitHub Stats" />
-  <img src="https://ghstats.dev/api/langs?username=karthik132007" alt="Top Languages" />
-</p>
