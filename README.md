@@ -22,7 +22,6 @@ LinkedIn    linkedin.com/in/karthikeya2k7
 
 <p align="center">
   <a href="https://drive.google.com/file/d/11inXucNDSFqRaZ6w0mERupbR1BYudE3y/view?usp=sharing">📄 Resume</a> •
-  <a href="https://github.com/karthik132007">GitHub</a> •
   <a href="https://linkedin.com/in/karthikeya2k7">LinkedIn</a>
 </p>
 
