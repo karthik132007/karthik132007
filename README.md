@@ -21,6 +21,7 @@ LinkedIn    linkedin.com/in/karthikeya2k7
 ```
 
 <p align="center">
+  <a href="https://karthikeya13.vercel.app/">🌐 Portfolio</a> •
   <a href="https://drive.google.com/file/d/11inXucNDSFqRaZ6w0mERupbR1BYudE3y/view?usp=sharing">📄 Resume</a> •
   <a href="https://linkedin.com/in/karthikeya2k7">LinkedIn</a>
 </p>
